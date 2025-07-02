@@ -1,0 +1,8 @@
+{
+  "rsi_threshold": 10,
+  "tp_atr": 6.0,
+  "sl_atr": 2.0,
+  "cooldown_minutes": 20,
+  "atr_threshold": 0.2,
+  "tp1_atr": 2.0
+}
